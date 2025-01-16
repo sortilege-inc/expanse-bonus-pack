@@ -1,3 +1,6 @@
+## 0.1.2 Initial update to migrate to The Expanse system
+- Initial compatibility testing
+
 ## 0.1.1 Pre-release Update
 - This version adds separate compendia for focuses, relationships, specializations, stunts, and talents. The previous compound compendia for scenes, actors, and items are retained for now. Also includes special "flat" compendia of focuses and talents for use with mods that aren't compatible with compendia organized by folders.
 
