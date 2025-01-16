@@ -17,7 +17,7 @@
       "path": "packs/bonus-actors.db",
       "type": "Actor",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -26,7 +26,7 @@
       "path": "packs/bonus-augmentations.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -35,7 +35,7 @@
       "path": "packs/bonus-focuses-flat.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -44,7 +44,7 @@
       "path": "packs/bonus-focuses.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -53,7 +53,7 @@
       "path": "packs/bonus-honorifics.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -62,7 +62,7 @@
       "path": "packs/bonus-items.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -71,7 +71,7 @@
       "path": "packs/bonus-relationships.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -88,7 +88,7 @@
       "path": "packs/bonus-specializations.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -97,7 +97,7 @@
       "path": "packs/bonus-stunts-flat.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -106,7 +106,7 @@
       "path": "packs/bonus-stunts.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -115,7 +115,7 @@
       "path": "packs/bonus-talents.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -163,7 +163,7 @@
     ],
     "systems": [
       {
-        "id": "age-system",
+        "id": "expanse",
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
         "compatibility": {}
